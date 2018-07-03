@@ -1,6 +1,8 @@
 # noncestatistics
 a simple tool to get a bunch of ApNonces from iOS devices
 
+run cmd noncestatistics -t 500 nonces.txt
+
 Version: 97173d496566b63921e3377afc7b6018f3990671 - 1
 Usage: noncestatistics [OPTIONS] FILE
 
